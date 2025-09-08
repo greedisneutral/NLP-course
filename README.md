@@ -8,4 +8,4 @@ The course draws from the [YSDA Natural Language Processing course](https://gith
 
 ## Syllabus
 
-The course syllabus can be found [here](https://smoggy-gecko-d72.notion.site/NLP-964d0f37013544db84861e0538fe6ff4).
+The course syllabus can be found [here](https://smoggy-gecko-d72.notion.site/NLP-1-2025-25a9083511ca808eae29c2aaa27394ca).
