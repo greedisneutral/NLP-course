@@ -1,0 +1,12 @@
+# Versions matching the wheels used by the Yandex Contest environment.
+gensim==4.3.3
+numpy==1.26.4
+scipy==1.13.1
+smart-open==8.0.1
+wrapt==2.3.0
+
+# Packages used directly by the homework notebook.
+nltk==3.10.3
+faiss-cpu==1.15.0
+Unidecode==1.4.0
+ipykernel==7.3.0
